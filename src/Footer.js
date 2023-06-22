@@ -13,6 +13,7 @@ function Footer(footer) {
   return (
     <div className="footer">
       <p>Try to make a footer in red background</p>
+      <p>Hello team Alpha</p>
 
       <ul className="footer">
         <li>{Name}</li>
