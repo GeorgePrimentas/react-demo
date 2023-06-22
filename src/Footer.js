@@ -3,7 +3,7 @@ import "./App.css";
 
 
 
-function Footer(hotel) {
+function Footer(footer) {
   const ContactDetails = [
     "Team Alpha Demo",
     "teamalpha@cyf.com", 
@@ -18,7 +18,7 @@ function Footer(hotel) {
         <li>{Name}</li>
         <li>{Email}</li>
       </ul>
-      
+
     </div>
   );
 }
