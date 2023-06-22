@@ -6,3 +6,5 @@ function Header() {
     <h1 className="head">Hello React Demo</h1>
   </header>;
 }
+
+export default Header;
